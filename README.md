@@ -77,7 +77,7 @@ To update a tea you'll need to make a PATCH request
 
 ### Step 3 - Delete a Tea
 
-Clicking the 'DELETE' button will remove the particular tea from the database and the changes should persist. For example, if I delete "Long Island Tea" then refresh the page, I should no longer see that tea.
+Clicking the 'Delete' button will remove that particular tea from the DOM and from the database and the changes should persist. For example, if I delete "Long Island Tea" then without refreshing the page, I should no longer see the card for that tea. In addition, if I manually refresh the page, I still should not see the tea I just deleted.
 
 * **Route:** DELETE `http://localhost:3000/teas/:id`
 

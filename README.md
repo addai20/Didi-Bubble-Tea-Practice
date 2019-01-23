@@ -46,7 +46,7 @@ When the page loads, I should see a list of all of the teas rendered onto the pa
      <img src="...">
      <textarea>The tea's description goes here</textarea>
      <button>Save</button>
-     <button>Delete</button>
+     <button>Remove</button>
    </div>
 <div>
 ```
@@ -77,7 +77,7 @@ To update a tea you'll need to make a PATCH request
 
 ### Step 3 - Delete a Tea
 
-Clicking the 'Delete' button will remove that particular tea from the DOM and from the database and the changes should persist. For example, if I delete "Long Island Tea" then without refreshing the page, I should no longer see the card for that tea. In addition, if I manually refresh the page, I still should not see the tea I just deleted.
+Clicking the 'Remove' button will remove that particular tea from the DOM and from the database and the changes should persist. For example, if I delete "Long Island Tea" then without refreshing the page, I should no longer see the card for that tea. In addition, if I manually refresh the page, I still should not see the tea I just deleted.
 
 * **Route:** DELETE `http://localhost:3000/teas/:id`
 

@@ -1,7 +1,7 @@
 ## Instructions
 
 You will be building out the following App:
-![tea gif]()
+![tea gif](https://media.giphy.com/media/2ysuO2LHHM6rXTMvGj/giphy.gif)
 
 
 -- As a user, when the page loads, I should see a list of bubble teas retrieved from an API.

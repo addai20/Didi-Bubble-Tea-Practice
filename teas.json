@@ -32,69 +32,45 @@
     },
     {
       "id": 6,
-      "name": "Strawberry Tea",
-      "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180706004959_ewr_tw_thumb.png",
-      "description": "If you usually only get your tea at Starbucks"
+      "name": "Blue Galaxy",
+      "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180706013525_0gh_tw_thumb.png",
+      "description": "It's out of this world"
     },
     {
       "id": 7,
-      "name": "Strawberry Tea",
-      "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180706004959_ewr_tw_thumb.png",
-      "description": "If you usually only get your tea at Starbucks"
+      "name": "Chocolately Chocolate",
+      "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180706011946_c2e_tw_thumb.png",
+      "description": "No such thing as too much of a good thing"
     },
     {
       "id": 8,
-      "name": "Strawberry Tea",
-      "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180706004959_ewr_tw_thumb.png",
-      "description": "If you usually only get your tea at Starbucks"
+      "name": "Thai Milk Tea",
+      "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180707024422_h27_thumb_tw.png",
+      "description": "A crowd favorite"
     },
     {
       "id": 9,
-      "name": "Strawberry Tea",
-      "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180706004959_ewr_tw_thumb.png",
-      "description": "If you usually only get your tea at Starbucks"
+      "name": "Tiramisu Slush",
+      "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180706015002_te9_tw_thumb.png",
+      "description": "Dessert in a cup"
     },
     {
       "id": 10,
-      "name": "Strawberry Tea",
-      "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180706004959_ewr_tw_thumb.png",
-      "description": "If you usually only get your tea at Starbucks"
+      "name": "Mango Slush",
+      "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180706015042_lfu_tw_thumb.png",
+      "description": "For when you're craving a basic smoothie"
     },
     {
       "id": 11,
-      "name": "Strawberry Tea",
-      "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180706004959_ewr_tw_thumb.png",
-      "description": "If you usually only get your tea at Starbucks"
+      "name": "Green Tea",
+      "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180707024226_s7d_tw_thumb.png",
+      "description": "It's literally green"
     },
     {
       "id": 12,
-      "name": "Strawberry Tea",
-      "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180706004959_ewr_tw_thumb.png",
-      "description": "If you usually only get your tea at Starbucks"
-    },
-    {
-      "id": 13,
-      "name": "Strawberry Tea",
-      "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180706004959_ewr_tw_thumb.png",
-      "description": "If you usually only get your tea at Starbucks"
-    },
-    {
-      "id": 14,
-      "name": "Strawberry Tea",
-      "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180706004959_ewr_tw_thumb.png",
-      "description": "If you usually only get your tea at Starbucks"
-    },
-    {
-      "id": 15,
-      "name": "Strawberry Tea",
-      "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180706004959_ewr_tw_thumb.png",
-      "description": "If you usually only get your tea at Starbucks"
-    },
-    {
-      "id": 16,
-      "name": "Strawberry Tea",
-      "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180706004959_ewr_tw_thumb.png",
-      "description": "If you usually only get your tea at Starbucks"
+      "name": "Earl Grey Float",
+      "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180707024111_30f_thumb_tw.png",
+      "description": "It's like a root beer float, but not..."
     }
   ]
 }

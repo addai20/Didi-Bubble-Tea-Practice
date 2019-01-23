@@ -38,7 +38,7 @@ When the page loads, I should see a list of all of the teas rendered onto the pa
 
 #### Styling
 
-**One important point** is that for the tea cards to show up correctly, the html should have the following class names:
+**One important point** is that for the tea cards to show up correctly, you should recreate the following DOM structure:
 
 ```html
 <div id="tea-container" class="container">

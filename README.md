@@ -38,7 +38,7 @@ When the page loads, I should see a list of all of the teas rendered onto the pa
 
 #### Styling
 
-**One important point** is that for the tea cards to show up correctly, here is an example of what your web page should look like:
+**One important point** is that for the tea cards to show up correctly, here is an example of what your tea card should look like:
 
 ```html
 <div id="tea-container" class="container">

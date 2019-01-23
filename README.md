@@ -1,6 +1,7 @@
 ## Instructions
 
 You will be building out the following App:
+
 ![tea gif](https://media.giphy.com/media/2ysuO2LHHM6rXTMvGj/giphy.gif)
 
 

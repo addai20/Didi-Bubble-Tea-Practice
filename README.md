@@ -9,7 +9,7 @@ You will be building out the following App:
 
 -- As a user, clicking the 'Save' button of any bubble tea will save any changes to the description to the database
 
--- As a user, clicking the 'Delete' button of any bubble tea will remove the tea from the database
+-- As a user, clicking the 'Remove' button of any bubble tea will remove the tea from the database
 
 
 ## The API

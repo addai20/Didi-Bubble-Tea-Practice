@@ -4,31 +4,97 @@
       "id": 1,
       "name": "DiDi Milk Tea",
       "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180706005936_fdy_tw_thumb.png",
-      "description": "Our best seller!",
+      "description": "Our best seller!"
     },
     {
       "id": 2,
       "name": "Long Island Tea",
       "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180706005609_bjj_thumb_tw.png",
-      "description": "Looking for a boozy option?",
+      "description": "Looking for a boozy option?"
     },
     {
       "id": 3,
       "name": "The Getaway",
       "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180707040000_t2g_thumb_tw.png",
-      "description": "For when you're trying to escape",
+      "description": "For when you're trying to escape"
     },
     {
       "id": 4,
       "name": "Taro Slush",
       "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180706015106_i66_tw_thumb.png",
-      "description": "Trust us, it's supposed to be that color",
+      "description": "Trust us, it's supposed to be that color"
     },
     {
       "id": 5,
       "name": "Strawberry Tea",
       "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180706004959_ewr_tw_thumb.png",
-      "description": "If you usually only get your tea at Starbucks",
+      "description": "If you usually only get your tea at Starbucks"
+    },
+    {
+      "id": 6,
+      "name": "Strawberry Tea",
+      "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180706004959_ewr_tw_thumb.png",
+      "description": "If you usually only get your tea at Starbucks"
+    },
+    {
+      "id": 7,
+      "name": "Strawberry Tea",
+      "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180706004959_ewr_tw_thumb.png",
+      "description": "If you usually only get your tea at Starbucks"
+    },
+    {
+      "id": 8,
+      "name": "Strawberry Tea",
+      "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180706004959_ewr_tw_thumb.png",
+      "description": "If you usually only get your tea at Starbucks"
+    },
+    {
+      "id": 9,
+      "name": "Strawberry Tea",
+      "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180706004959_ewr_tw_thumb.png",
+      "description": "If you usually only get your tea at Starbucks"
+    },
+    {
+      "id": 10,
+      "name": "Strawberry Tea",
+      "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180706004959_ewr_tw_thumb.png",
+      "description": "If you usually only get your tea at Starbucks"
+    },
+    {
+      "id": 11,
+      "name": "Strawberry Tea",
+      "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180706004959_ewr_tw_thumb.png",
+      "description": "If you usually only get your tea at Starbucks"
+    },
+    {
+      "id": 12,
+      "name": "Strawberry Tea",
+      "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180706004959_ewr_tw_thumb.png",
+      "description": "If you usually only get your tea at Starbucks"
+    },
+    {
+      "id": 13,
+      "name": "Strawberry Tea",
+      "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180706004959_ewr_tw_thumb.png",
+      "description": "If you usually only get your tea at Starbucks"
+    },
+    {
+      "id": 14,
+      "name": "Strawberry Tea",
+      "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180706004959_ewr_tw_thumb.png",
+      "description": "If you usually only get your tea at Starbucks"
+    },
+    {
+      "id": 15,
+      "name": "Strawberry Tea",
+      "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180706004959_ewr_tw_thumb.png",
+      "description": "If you usually only get your tea at Starbucks"
+    },
+    {
+      "id": 16,
+      "name": "Strawberry Tea",
+      "image_url": "http://www.vivibubbletea.com/uploads/products/products_coverphoto_20180706004959_ewr_tw_thumb.png",
+      "description": "If you usually only get your tea at Starbucks"
     }
   ]
 }

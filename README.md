@@ -31,7 +31,7 @@ For this challenge, it is important to work iteratively, one feature at a time, 
 
 ### Step 1 - Display All Teas
 
-When the page loads, I should see a list of all of the teas rendered onto the page as rectangular cards. Each card should display information including the tea's name, an image of the tea, and the description of the tea retrieved from the API. The endpoint we need to retrieve all the teas is a conventional RESTful route.
+When the page loads, I should see a list of all of the teas rendered onto the page as rectangular cards. Each card should display information including the tea's name, an image of the tea, and the description of the tea retrieved from the API. The endpoint we need to retrieve all the teas is a conventional RESTful route. Each tea card should be rendered inside the `#tea-container`
 
 * **Route:** GET `http://localhost:3000/teas`
 
